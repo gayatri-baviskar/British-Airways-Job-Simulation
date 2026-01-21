@@ -1,5 +1,4 @@
-# British-Airways-Job-Simulation
-British Airways Data Science job Simulation Project 
+# British Airways Job Simulation
 
 ## 📌 Overview
 
@@ -32,6 +31,7 @@ The project utilizes two primary datasets:
      - **Booking Details**
      - **Revenue Information**
      - **Customer Behavior Attributes**
+
 
 ### 2️⃣ Install dependencies:
 
